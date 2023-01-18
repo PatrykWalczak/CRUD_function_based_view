@@ -1,3 +1,4 @@
 .env
 .idea/
 /virtualcrud
+__pycache__
